@@ -9,12 +9,14 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.App" Version="2.1.*" />
+    <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Giraffe" Version="3.4.*" />
     <PackageReference Include="TaskBuilder.fs" Version="2.1.*" />
   </ItemGroup>
 
   <ItemGroup>
+    <Compile Include="Models.fs" />
+    <Compile Include="HttpHandlers.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
 
