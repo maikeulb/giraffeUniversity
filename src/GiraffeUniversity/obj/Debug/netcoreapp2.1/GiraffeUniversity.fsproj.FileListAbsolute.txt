@@ -1,0 +1,12 @@
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/WebRoot/main.css
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/web.config
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/GiraffeUniversity.deps.json
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/GiraffeUniversity.runtimeconfig.json
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/GiraffeUniversity.runtimeconfig.dev.json
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/GiraffeUniversity.dll
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/bin/Debug/netcoreapp2.1/GiraffeUniversity.pdb
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/obj/Debug/netcoreapp2.1/GiraffeUniversity.fsprojAssemblyReference.cache
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/obj/Debug/netcoreapp2.1/GiraffeUniversity.AssemblyInfoInputs.cache
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/obj/Debug/netcoreapp2.1/GiraffeUniversity.AssemblyInfo.fs
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/obj/Debug/netcoreapp2.1/GiraffeUniversity.dll
+/Users/michael.barnes/Personal/giraffe/GiraffeUniversity/src/GiraffeUniversity/obj/Debug/netcoreapp2.1/GiraffeUniversity.pdb
